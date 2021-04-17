@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi, I'm Saurav Dhyani, a Microsoft Dynamics 365 Business Central enthusiast 
 
-<!--
-**postsaurav/postsaurav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[![BLOG](https://img.shields.io/badge/blogger-black?style=for-the-badge&logo=Blogger)](http://sauravdhyani.com/) 
+[![LINKEDIN](https://img.shields.io/badge/Linkedin-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sauravdhyani/) 
+[![TWITTER](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/sauravdhyani) 
+[![FACEBOOK](https://img.shields.io/badge/Facebook-black?style=for-the-badge&logo=facebook)](https://www.facebook.com/SauravMSDYN365BC)
+[![YouTube](https://img.shields.io/badge/Youtube-black?style=for-the-badge&logo=youtube)](https://www.youtube.com/user/postsaurav)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My Github Contributions
+| **SUMARY**                                                                                                                                              | **LANGUAGES**                                                                                                                                         |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [![Saurav github stats](https://github-readme-stats.vercel.app/api?username=postsaurav&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=postsaurav&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
